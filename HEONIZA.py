@@ -1,4 +1,4 @@
-sentence = "HEONIZA REYES"
+sentence = "HEONIZA RACUBA REYES"
 
 words = 0
 
